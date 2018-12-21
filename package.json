@@ -1,0 +1,49 @@
+{
+  "name": "start-project",
+  "version": "1.0.3",
+  "description": "1. Install node.js], and gulp globally 2. Console comands: npm i, npm update --save, npm update --save--dev",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sourcemaps": "latest",
+    "natives": "latest",
+    "normalize-scss": "latest",
+    "postcss-assets": "latest",
+    "rimraf": "latest"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-babel": "latest",
+    "gulp-concat": "latest",
+    "gulp-cssfont64": "latest",
+    "gulp-csso": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-inline-image": "latest",
+    "gulp-jade": "latest",
+    "gulp-plumber": "latest",
+    "gulp-postcss": "latest",
+    "gulp-pug": "latest",
+    "gulp-purifycss": "latest",
+    "gulp-replace": "latest",
+    "gulp-sass": "latest",
+    "gulp-sass-glob": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "imagemin-pngquant": "latest",
+    "postcss-assets": "latest",
+    "rimraf": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeAliss/start-project-lite.git"
+  },
+  "author": "BeAliss",
+  "license": "ISC",
+  "homepage": "https://github.com/BeAliss"
+}
